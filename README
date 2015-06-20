@@ -1,0 +1,17 @@
+UVATOOL
+
+uvatool is an attempt at reconstructing the way I do competitive programming stuff. Currently, the workflow is like
+
+(1) Read a Problem in Browser
+(2) Simultaneously think / code in vim
+(3) Compile and Debug
+(4) Submit in Browser, and loop back to (1) or (2)
+
+If uvatool is completed, the workflow I'll achieve would be
+
+(1) Read a problem in Browser or terminal (without images)
+(2) Simultaneously think / code in vim
+(3) Compile and Debug
+(4) Submit via terminal using uvatool, and loop back to (1) or (2)
+
+Still in progress.
